@@ -1,0 +1,28 @@
+{
+  "title": "Upload stats",
+  "statsData": [
+    {
+    "id": "01",
+    "name": ".docx",
+    "value": "32%"
+    },
+
+    {
+    "id": "02",
+    "name": ".pdf",
+    "value": "4%"
+    },
+
+    {
+    "id": "03",
+    "name": ".mp3",
+    "value": "17%"
+    },
+
+    {
+    "id": "04",
+    "name": ".psd",
+    "value": "47%"
+    }
+]
+}
