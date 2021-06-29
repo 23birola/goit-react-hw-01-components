@@ -1,0 +1,27 @@
+{
+ "friendsData": [
+    {
+    "id": "01",
+    "name": "mango",
+    "url": ""
+    },
+
+    {
+    "id": "02",
+    "name": "kiwi",
+    "url": ""
+    },
+
+    {
+    "id": "03",
+    "name": "cherry",
+    "url": ""
+    },
+
+    {
+    "id": "04",
+    "name": "",
+    "value": ""
+    }
+]
+}

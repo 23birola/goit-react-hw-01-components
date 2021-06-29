@@ -1,13 +1,15 @@
 import './App.css';
 import Profile from './components/Profile/Profile';
 import Statistic from './components/Statistic/Statistic'
+import { FriendsList } from './components/FriendsList/FriendsList';
+
 import user from './user.json';
 import statisticalData from './statistical-data.json';
+import friends from './friends.json'
 
 
 function App() {
-  return (
-    <>
+  return (<>
       <section>
         <Profile
         avatar={user.avatar}
@@ -17,7 +19,12 @@ function App() {
         stats={user.stats}
           />
       </section>
-        <Statistic data={statisticalData} />
+    
+      <Statistic data={statisticalData} />
+      
+      <section>
+      <FriendsList friendsData={friends.friendsData}/>
+      </section>
     </>
   );
 }
