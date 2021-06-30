@@ -23,7 +23,7 @@ function App() {
       <Statistic data={statisticalData} />
       
       <section>
-      <FriendsList friendsData={friends.friendsData}/>
+      <FriendsList friendsData={friends}/>
       </section>
     </>
   );

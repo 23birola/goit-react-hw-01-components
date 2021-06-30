@@ -1,27 +1,25 @@
-{
- "friendsData": [
+[
     {
     "id": "01",
     "name": "mango",
-    "url": ""
+    "url": "https://pixabay.com/images/id-3526681/"
     },
 
     {
     "id": "02",
     "name": "kiwi",
-    "url": ""
+    "url": "https://pixabay.com/images/id-1388937/"
     },
 
     {
     "id": "03",
     "name": "cherry",
-    "url": ""
+    "url": "https://pixabay.com/images/id-160601/"
     },
 
     {
     "id": "04",
-    "name": "",
-    "value": ""
+    "name": "apple",
+    "url": "https://pixabay.com/images/id-158551/"
     }
 ]
-}
